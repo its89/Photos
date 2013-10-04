@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Bilder</string>
+    <string name="btnIntend">Ta Bilde</string>
+    <string name="btnIntendV">Lag Video</string>
+    <string name="cannot">Kan ikke</string>
+    <string name="album_name">BildeAlbum</string>
+    <string name="awesometech">AwesomeTech*</string>
+</resources>
